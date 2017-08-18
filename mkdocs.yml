@@ -1,0 +1,29 @@
+site_name: SHIFT ware Page
+pages:
+  - "SHIFT ware": index.md
+  - "SHIFT ware ドキュメント": docs.md
+  - "SHIFT ware ダウンロード": dl.md
+  - "SHIFT ware ライブラリ": lib.md
+  - "SHIFT ware ユーザーグループ": ug.md
+  - "関連コミュニティ": community.md
+theme: material
+repo_url: https://github.com/SHIFT-ware/shift_ware
+remote_branch: gh-pages
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - meta
+  - pymdownx.arithmatex
+  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist(custom_checkbox=true)
+  - pymdownx.tilde
