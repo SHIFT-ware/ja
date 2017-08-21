@@ -15,7 +15,7 @@
 # git checkout master  
 ```
 
-Edit mkdocs.yml or some files under docs directory, then 
+Edit mkdocs.yml or some files under the docs directory, then 
 
 
 ```
@@ -30,4 +30,9 @@ Finally, you need to push the master repository.
 # git commit -m "Update"
 # git push -u origin master
 ```
+
+# Ref
+
+* http://www.mkdocs.org/
+* http://squidfunk.github.io/mkdocs-material/
 
