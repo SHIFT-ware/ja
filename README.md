@@ -1,3 +1,13 @@
+# Preparation
+
+* mkdocs tools
+
+```
+# pip install mkdocs
+# pip install mkdocs-material 
+```
+
+
 # How to Update
 
 ```
@@ -7,12 +17,13 @@
 
 Edit mkdocs.yml or some files under docs directory, then 
 
+
 ```
 # mkdocs build
 # mkdocs gh-deploy
 ```
 
-Finally, Push master repository
+Finally, you need to push the master repository.
 
 ```
 # git add .
