@@ -11,7 +11,7 @@
 # How to Update
 
 ```
-# git clone https://github.com/SHIFT-ware/page.git
+# git clone https://github.com/SHIFT-ware/ja.git
 # git checkout master  
 ```
 
