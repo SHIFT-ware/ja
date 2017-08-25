@@ -15,6 +15,6 @@
 
 このようなことを実現するため、**IaC活用研究所** を設立します。
 
-Link : [Doorkeeperサイトへ]()
+Link : [コミュニティページへ](https://iacc.doorkeeper.jp/)
 
 [^1]: Infrastructure as Code
