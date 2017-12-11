@@ -5,4 +5,6 @@
 リーフレットダウンロードリンク
 
 ## **SHIFT ware プレゼンテーション・コンテンツ**
-プレゼン資料など
+### イベントコンテンツ
+
+* [Open Source Conference 2017.Enterprise](contents/OSC2017.enterprise_TIS.pdf)
